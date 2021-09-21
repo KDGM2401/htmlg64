@@ -1,0 +1,35 @@
+body
+{
+	background: purple;
+}
+
+h1
+{
+	color: palegreen !important;
+	text-align: center;
+}
+
+p
+{
+	color: white;
+	margin: 50px;
+	margin-top: 30px;
+	margin-right: 40px;
+}
+
+#parrafo1
+{
+	color: orange;
+	border: 1px dotted cadetblue;
+}
+
+.parrafo
+{
+	font-family: "verdana", "helvetica";
+}
+
+#caja a
+{
+	color: floralwhite;
+	text-decoration: none;
+}
